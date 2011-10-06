@@ -2,7 +2,7 @@
 // @name           razdrazhe
 // @namespace      http://l.telenet.ru
 // @description    решает капчу
-// @include        http://razdrazhe.ru/komiks-327
+// @include        http://razdrazhe.ru/*
 // ==/UserScript==
 
 (function(){
